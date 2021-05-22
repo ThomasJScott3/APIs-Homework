@@ -8,7 +8,7 @@ The second part of the homework deals with montecarlo simulations. These allow u
 I was also able to complete the extra credit portion. The code for each part of the assignment has been tested as well and should run.
 
 ## Caveats
-- I adjusted the start and end date variables to reflect the most up to date prices for the assets provided. I wanted the hypothetical client to see simulations based on up to date information. If the simulation is based on stale data, then what is the point? The simulation is most effective when it incorporates data based on current market performance in my opinion.
+- I adjusted the start and end date variables to reflect the most up to date prices for the assets provided. I wanted the hypothetical credit union client to see simulations based on up to date information. If the simulation is based on stale data, then what is the point? The simulation is most effective when it incorporates data based on current market performance in my opinion. As such, the visual output may look different than the sample provided in the starter file.
 - The JSON for the crypto information is not dynamic. I had to review the output to ensure that the pricing information particular to that JSON was pulled individually.
 - I imported the time and datetime libraries in order to get dates in ISO format. My thinking was it was best to use occam's razor and a 'don't reinvent the wheel' approach.
 - Finally, a lot of my solution comes from examining the instructor code solutions. I did my best to make alterations where possible, but also wanted to ensure that my solutions comported with the starter code. Consider this a broad citation in this regard. Aside from that, this assignment is my original and unique work.
